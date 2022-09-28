@@ -1,0 +1,1 @@
+"C:\Users\Aluno\AppData\Local\Programs\Python\Python38\python.exe" "C:\Users\Aluno\Desktop\Guilherme_3binfo\SSA-Met\SSA_Met.py"

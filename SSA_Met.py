@@ -123,6 +123,7 @@ def window():                               # Inteface grafica do programa
         winOpen = False            #pop-up de erro
         sg.popup_error(f'ERRO. Tente novamente.')
         window.close()
+        browser.close()
 
 #======================================(//||^Botões da Interface^||\\)======================================
 Thread(target = window).start()
